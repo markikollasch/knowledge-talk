@@ -104,9 +104,11 @@ This is proof and inference in practice.
 
 . . .
 
-**Test-driven development**
+Test all attributes of the program  
+(**Test-driven development** catches more)
 
-*Languages with strong type systems*
+Statically prove absence of classes of errors  
+(*Stronger type systems* like Rust and Haskell do more)
 
 <div class="notes">
 Infer more by ensuring every desired attribute of the program is testable and tested (test-driven development)
